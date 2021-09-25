@@ -23,14 +23,14 @@ I am Mid, a second year Computer Science Engineering student. I like learning, e
 
 
 ### Worked with
-<code><img height="40" src="https://devicon.dev/devicon.git/icons/c/c-plain.svg"></code>
-<code><img height="40" src="https://devicon.dev/devicon.git/icons/java/java-original.svg"></code>
-<code><img height="40" src="https://devicon.dev/devicon.git/icons/python/python-original.svg"></code>
-<code><img height="40" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"></code>
-<code><img height="40" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg"></code>
-<code><img height="40" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg"></code>
-<code><img height="40" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg"></code>
-<code><img height="40" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
 
 
 ### Find me around the Internet
