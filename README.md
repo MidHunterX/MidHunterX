@@ -28,31 +28,23 @@ I am Mid, a second year Computer Science Engineering student. I like learning, e
 
 <br>
 
-## 🔧 Worked with
-<code><img height="40" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
-&nbsp;
-<code><img height="40" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
-&nbsp;
-<code><img height="40" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
-&nbsp;
-<code><img height="40" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-&nbsp;
-<code><img height="40" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-&nbsp;
-<code><img height="40" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
-&nbsp;
-<code><img height="40" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-&nbsp;
-<code><img height="40" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+## 🌐 Languages
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code> 
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
 
 <br>
 
 ## 🌐 Find me around the Internet
-[<img title="Not much but it's honest work" align="left" style="padding: 10px" alt="Mid Hunter | Instagram" src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
-[<img title="You shall not pass!" align="left" style="padding: 10px" alt="Mid Hunter | YouTube" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
-[<img title="Dem feels bro" align="left" style="padding: 10px" alt="MidHunterX | Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white" />][spotify]
-[<img title="The only place where intellectuals acts like complete idiots" align="left" style="padding: 10px" alt="MidHunterX | Reddit" src="https://img.shields.io/badge/-u/MidHunterX-FF4500?style=for-the-badge&logo=Reddit&logoColor=white" />][reddit]
-[<img title="Welcome my friend, to one of the top 10 dead servers of all time" align="left" style="padding: 10px" alt="Mid Hunter | Discord" src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white" />][discord]
+[<img title="Not much but it's honest work" style="float: left;" alt="Mid Hunter | Instagram" src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
+[<img title="You shall not pass!" style="float: left;" alt="Mid Hunter | YouTube" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
+[<img title="Dem feels bro" style="float: left;" alt="MidHunterX | Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white" />][spotify]
+[<img title="The only place where intellectuals acts like complete idiots" style="float: left;" alt="MidHunterX | Reddit" src="https://img.shields.io/badge/-u/MidHunterX-FF4500?style=for-the-badge&logo=Reddit&logoColor=white" />][reddit]
+[<img title="Welcome my friend, to one of the top 10 dead servers of all time" style="float: left;" alt="Mid Hunter | Discord" src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white" />][discord]
 
 <br clear="left">
 <br><br>
