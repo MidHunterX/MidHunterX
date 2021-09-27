@@ -24,7 +24,7 @@ I am Mid, a second year Computer Science Engineering student. I like learning, e
 <br>
 
 ## 💻 Coding activity last 7 days
-<img src="https://wakatime.com/share/@Mid_Hunter/f5a862a2-48a4-43a6-b3eb-8820e3db6595.svg">
+![](https://wakatime.com/share/@Mid_Hunter/30e2d32e-7a16-4198-b51b-0b415fa1c696.png)
 
 <br>
 
