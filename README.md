@@ -51,7 +51,7 @@ I am Mid, a second year Computer Science Engineering student. I like learning, e
 
 <hr>
 <img align="right" src="images/QR.svg" width="60" />
-<h6 align="center">This <i>README</i> file is generated through conversion from electrical pulses in the encephalon located inside the cranium of personal posession to this world wide web service using character encodings produced by a complex silicon based computing system </br>Last day: Yesterday, Next day: Tommorrow<br /><a title="Not even a copyright symbol but, okay... looks cool tho" href="https://matias.ma/nsfw/">ⓔ 2020 Mid Hunter</a></h6>
+<sup><h6 align="center">This <i>README</i> file is generated through conversion from electrical pulses in the encephalon located inside the cranium of personal posession to this world wide web service using character encodings produced by a complex silicon based computing system <br/> <a title="Not even a copyright symbol but, okay... looks cool tho" href="https://matias.ma/nsfw/">ⓔ 2020 Mid Hunter</a></h6></sup>
 
 <!-- Variables : Social -->
 [youtube]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
