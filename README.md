@@ -13,7 +13,7 @@ $ midfetch
     oMMo yyyMMyyMMyyy oMMo    	GPU  : NVIDIA GeForce GTX 550 Ti
     oMMo yyysNMMNoyyy oMMo
     oMMo yyy `++` yyy oMMo
-    oMMo yyy      yyy oMMo    	Quotidian Tools
+    oMMo yyy      yyy oMMo    	Everyday Tools
     oMMo oyy      yyo oMMo    	--------------------------------
     oMMo  .o      o.  oMMo    	Code Editing Tool   : VS Code
     oMMo              oMMo    	Graphic Design Tool : Indesign
