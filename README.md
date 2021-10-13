@@ -9,7 +9,7 @@ $ midfetch
     oNo` yyy      yyy `oNo    	OS   : Windows 8.1
     oMMNsyyy      yyysNMMo    	CPU  : i3-3240
     oMMMMyyy      yyyMMMMo    	RAM  : 1333MHz 4Gig DDR3
-    oMMhdyyyy.  .yyyyyyMMo    	Mobo : Zebronics H61
+    oMMhdyyyy.  .yyyyyyMMo    	Mobo : Zeb H61
     oMMo yyyMMyyMMyyy oMMo    	GPU  : NVIDIA GeForce GTX 550 Ti
     oMMo yyysNMMNoyyy oMMo
     oMMo yyy `++` yyy oMMo
