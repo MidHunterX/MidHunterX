@@ -48,7 +48,13 @@ $ midfetch
 ![](https://wakatime.com/share/@Mid_Hunter/cb8eda79-4598-4e21-919f-e697b0143f07.png)
 
 <!--START_SECTION:waka-->
-
+```text
+Markdown     14 hrs 7 mins   █████████░░░░░░░░░░░░░░░░   35.85 % 
+HTML         7 hrs 54 mins   █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+SQL          7 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.61 % 
+CSS          7 hrs 18 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.53 % 
+JavaScript   1 hr 47 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+```
 <!--END_SECTION:waka-->
 
 <br>
