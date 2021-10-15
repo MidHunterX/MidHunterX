@@ -48,6 +48,7 @@ $ midfetch
 ![](https://wakatime.com/share/@Mid_Hunter/cb8eda79-4598-4e21-919f-e697b0143f07.png)
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 <br>
