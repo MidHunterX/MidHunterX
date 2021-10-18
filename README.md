@@ -4,21 +4,21 @@ I am Mid, a second year Computer Science Engineering student. I like learning, e
 ```console
 $ midfetch
 
-         o.        .o         	Mid Hunter
-    -`   yyo      oyy   `-    	--------------------------------
-    oNo` yyy      yyy `oNo    	OS   : Windows 8.1
-    oMMNsyyy      yyysNMMo    	CPU  : i3-3240
-    oMMMMyyy      yyyMMMMo    	RAM  : 1333MHz 4Gig DDR3
-    oMMhdyyyy.  .yyyyyyMMo    	Mobo : Zeb H61
-    oMMo yyyMMyyMMyyy oMMo    	GPU  : NVIDIA GeForce GTX 550 Ti
-    oMMo yyysNMMNoyyy oMMo
-    oMMo yyy `++` yyy oMMo
-    oMMo yyy      yyy oMMo    	Everyday Tools
-    oMMo oyy      yyo oMMo    	--------------------------------
-    oMMo  .o      o.  oMMo    	Code Editing Tool   : VS Code
-    oMMo              oMMo    	Graphic Design Tool : Indesign
-    :NMo              oMN:    	Vector Design Tool  : Inkscape
-     `o+              +o`     	Raster Design Tool  : Photoshop
+             o.        .o             	Mid Hunter
+        -`   yyo      oyy   `-        	--------------------------------
+        oNo` yyy      yyy `oNo        	OS   : Windows 8.1
+        oMMNsyyy      yyysNMMo        	CPU  : i3-3240
+        oMMMMyyy      yyyMMMMo        	RAM  : 1333MHz 4Gig DDR3
+        oMMhdyyyy.  .yyyyyyMMo        	Mobo : Zebronics H61
+        oMMo yyyMMyyMMyyy oMMo        	GPU  : NVIDIA GeForce GTX 550 Ti
+        oMMo yyysNMMNoyyy oMMo
+        oMMo yyy `++` yyy oMMo
+        oMMo yyy      yyy oMMo        	Everyday Tools
+        oMMo oyy      yyo oMMo        	--------------------------------
+        oMMo  .o      o.  oMMo        	Code Editing Tool   : VS Code
+        oMMo              oMMo        	Graphic Design Tool : Indesign
+        :NMo              oMN:        	Vector Design Tool  : Inkscape
+         `o+              +o`         	Raster Design Tool  : Photoshop
 
 ```
 
