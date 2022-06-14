@@ -1,4 +1,4 @@
-# Greetings <img src="img/wave.gif" width="40px">
+# Greetings <img src="img/wave.gif" width="40px" height="40px">
 I am Mid, a second year Computer Science Engineering student. I like learning, experimenting with new technologies and building small projects.
 
 ```console
