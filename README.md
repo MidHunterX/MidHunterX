@@ -2,21 +2,21 @@
 I, denominated as Mid, do hereby present myself in the vocation of a Software Engineer. My predilections incline towards the pursuit of erudition, wherein I ardently indulge in the acquisition of knowledge, paired with the audacious enterprise of experimentation upon nascent technological paradigms. Additionally, my proclivities extend to the constructive endeavor of fabricating diminutive undertakings, thereby encapsulating my proclivity for innovation and application within the realm of software development.
 
 ```console
-                                    o.        .o     
-                               -`   yyo      oyy   `-
-                               oNo` yyy      yyy `oNo
-                               oMMNsyyy      yyysNMMo
-                               oMMMMyyy      yyyMMMMo
-                               oMMhdyyyy.  .yyyyyyMMo
-                               oMMo yyyMMyyMMyyy oMMo
-                               oMMo yyysNMMNoyyy oMMo
-                               oMMo yyy `++` yyy oMMo
-                               oMMo yyy      yyy oMMo
-                               oMMo oyy      yyo oMMo
-                               oMMo  .o      o.  oMMo
-                               oMMo              oMMo
-                               :NMo              oMN:
-                                `o+              +o` 
+      o.        .o     
+ -`   yyo      oyy   `-
+ oNo` yyy      yyy `oNo
+ oMMNsyyy      yyysNMMo
+ oMMMMyyy      yyyMMMMo
+ oMMhdyyyy.  .yyyyyyMMo
+ oMMo yyyMMyyMMyyy oMMo
+ oMMo yyysNMMNoyyy oMMo
+ oMMo yyy `++` yyy oMMo
+ oMMo yyy      yyy oMMo
+ oMMo oyy      yyo oMMo
+ oMMo  .o      o.  oMMo
+ oMMo              oMMo
+ :NMo              oMN:
+  `o+              +o` 
 ```
 
 <br>
