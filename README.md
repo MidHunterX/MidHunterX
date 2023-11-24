@@ -16,6 +16,7 @@ I, denominated as Mid, do hereby present myself in the vocation of a Software En
 <div align="center">
 
 ```
+
       o.        .o     
  -`   yyo      oyy   `-
  oNo` yyy      yyy `oNo
@@ -32,7 +33,6 @@ I, denominated as Mid, do hereby present myself in the vocation of a Software En
  :NMo              oMN:
   `o+              +o` 
 
--------------------8<-------------[ cut here ]---------------------------------
 ```
 
 </div>
