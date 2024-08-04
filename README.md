@@ -1,6 +1,6 @@
 ![](./img/header.png)
 
-# Greetings <span><img width="64px" src="./ico/emojis/wave.gif"></span>
+# Greetings <span><img width="64px" src="./ico/emojis/eye.gif"></span>
 
 <img width="256px" align="right" src="./img/avatar.png">
 
