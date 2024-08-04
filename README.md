@@ -47,7 +47,9 @@ I, denominated as Mid, do hereby present myself in the vocation of a Software En
 
 <br>
 
-## Languages
+## Tools and Technologies
+
+### Languages
 
 <span><img width="69" height="69" title="C" src="./ico/languages/c.svg"></span>
 <span><img width="69" height="69" title="Python" src="./ico/languages/python.svg"></span>
@@ -59,9 +61,7 @@ I, denominated as Mid, do hereby present myself in the vocation of a Software En
 <span><img width="69" height="69" title="Lua" src="./ico/languages/lua.svg"></span>
 <span><img width="69" height="69" title="Bash" src="./ico/languages/bash.svg"></span>
 
-<br>
-
-## Tools and Technologies
+### Databases and Frameworks
 
 <span><img width="69" height="69" title="SQLite" src="./ico/databases/sqlite.svg"></span>
 <span><img width="69" height="69" title="MySQL" src="./ico/databases/mysql.svg"></span>
@@ -70,18 +70,24 @@ I, denominated as Mid, do hereby present myself in the vocation of a Software En
 <span><img width="69" height="69" title="Django" src="./ico/frameworks/django.svg"></span>
 <span><img width="69" height="69" title="NextJS" src="./ico/frameworks/nextjs.svg"></span>
 <span><img width="69" height="69" title="NodeJS" src="./ico/frameworks/nodejs.svg"></span>
+
+### Development Tools
+
 <span><img width="69" height="69" title="Git" src="./ico/tools/git.svg"></span>
-<span><img width="69" height="69" title="Linux" src="./ico/tools/linux.svg"></span>
 <span><img width="69" height="69" title="NeoVim" src="./ico/tools/nvim.svg"></span>
 <span><img width="69" height="69" title="Terminal Multiplexer (TMUX)" src="./ico/tools/tmux.svg"></span>
 <span><img width="69" height="69" title="Firefox" src="./ico/tools/firefox.svg"></span>
+<span><img width="69" height="69" title="Linux" src="./ico/tools/linux.svg"></span>
 <span><img width="69" height="69" title="Secure Shell (SSH)" src="./ico/tools/ssh.svg"></span>
-<span><img width="69" height="69" title="Visual Studio Code" src="./ico/tools/vscode.svg"></span>
+
+### Misc Tools
+
 <span><img width="69" height="69" title="Adobe Photoshop" src="./ico/misc/photoshop.svg"></span>
 <span><img width="69" height="69" title="Adobe Indesign" src="./ico/misc/indesign.svg"></span>
 <span><img width="69" height="69" title="Adobe Premiere Pro" src="./ico/misc/premierepro.svg"></span>
 <span><img width="69" height="69" title="Inkscape" src="./ico/misc/inkscape.svg"></span>
 <span><img width="69" height="69" title="Blender 3D" src="./ico/misc/blender.svg"></span>
+<span><img width="69" height="69" title="Visual Studio Code" src="./ico/tools/vscode.svg"></span>
 
 <br>
 
