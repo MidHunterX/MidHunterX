@@ -49,30 +49,30 @@ I, denominated as Mid, do hereby present myself in the vocation of a Software En
 
 ## Languages
 
-<span><img width="69" title="C" src="ico/lvl1/c.svg"></span>
-<span><img width="69" title="Python" src="ico/lvl1/python.svg"></span>
-<span><img width="69" title="HTML5" src="ico/lvl1/html5.svg"></span>
-<span><img width="69" title="CSS3" src="ico/lvl1/css3.svg"></span>
-<span><img width="69" title="JavaScript" src="ico/lvl1/javascript.svg"></span>
-<span><img width="69" title="TypeScript" src="ico/lvl1/typescript.svg"></span>
-<span><img width="69" title="Java" src="ico/lvl1/java.svg"></span>
-<span><img width="69" title="Lua" src="ico/lvl1/lua.svg"></span>
+<span><img width="69" height="69" title="C" src="ico/lvl1/c.svg"></span>
+<span><img width="69" height="69" title="Python" src="ico/lvl1/python.svg"></span>
+<span><img width="69" height="69" title="HTML5" src="ico/lvl1/html5.svg"></span>
+<span><img width="69" height="69" title="CSS3" src="ico/lvl1/css3.svg"></span>
+<span><img width="69" height="69" title="JavaScript" src="ico/lvl1/javascript.svg"></span>
+<span><img width="69" height="69" title="TypeScript" src="ico/lvl1/typescript.svg"></span>
+<span><img width="69" height="69" title="Java" src="ico/lvl1/java.svg"></span>
+<span><img width="69" height="69" title="Lua" src="ico/lvl1/lua.svg"></span>
 
 <br>
 
 ## Tools and Technologies
 
-<span><img width="69" title="Git" src="ico/lvl1/git.svg"></span>
-<span><img width="69" title="NeoVim" src="ico/lvl1/nvim.svg"></span>
-<span><img width="69" title="NodeJS" src="ico/lvl1/nodejs.svg"></span>
-<span><img width="69" title="MySQL" src="ico/lvl1/mysql.svg"></span>
-<span><img width="69" title="Vim" src="ico/lvl1/vim.svg"></span>
-<span><img width="69" title="Visual Studio Code" src="ico/lvl1/vscode.svg"></span>
-<span><img width="69" title="Adobe Photoshop" src="ico/lvl2/photoshop.svg"></span>
-<span><img width="69" title="Adobe Indesign" src="ico/lvl2/indesign.svg"></span>
-<span><img width="69" title="Adobe Premiere Pro" src="ico/lvl2/premiere pro.svg"></span>
-<span><img width="69" title="Inkscape" src="ico/lvl2/inkscape.svg"></span>
-<span><img width="69" title="Blender 3D" src="ico/lvl2/blender.svg"></span>
+<span><img width="69" height="69" title="Git" src="ico/lvl1/git.svg"></span>
+<span><img width="69" height="69" title="NeoVim" src="ico/lvl1/nvim.svg"></span>
+<span><img width="69" height="69" title="NodeJS" src="ico/lvl1/nodejs.svg"></span>
+<span><img width="69" height="69" title="MySQL" src="ico/lvl1/mysql.svg"></span>
+<span><img width="69" height="69" title="Vim" src="ico/lvl1/vim.svg"></span>
+<span><img width="69" height="69" title="Visual Studio Code" src="ico/lvl1/vscode.svg"></span>
+<span><img width="69" height="69" title="Adobe Photoshop" src="ico/lvl2/photoshop.svg"></span>
+<span><img width="69" height="69" title="Adobe Indesign" src="ico/lvl2/indesign.svg"></span>
+<span><img width="69" height="69" title="Adobe Premiere Pro" src="ico/lvl2/premiere pro.svg"></span>
+<span><img width="69" height="69" title="Inkscape" src="ico/lvl2/inkscape.svg"></span>
+<span><img width="69" height="69" title="Blender 3D" src="ico/lvl2/blender.svg"></span>
 
 <br>
 
