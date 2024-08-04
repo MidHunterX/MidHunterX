@@ -17,21 +17,21 @@ I, denominated as Mid, do hereby present myself in the vocation of a Software En
 
 ```
 
-      o.        .o
- -`   yyo      oyy   `-
- oNo` yyy      yyy `oNo
- oMMNsyyy      yyysNMMo
- oMMMMyyy      yyyMMMMo
- oMMhdyyyy.  .yyyyyyMMo
- oMMo yyyMMyyMMyyy oMMo
- oMMo yyysNMMNoyyy oMMo
- oMMo yyy `++` yyy oMMo
- oMMo yyy      yyy oMMo
- oMMo oyy      yyo oMMo
- oMMo  .o      o.  oMMo
- oMMo              oMMo
- :NMo              oMN:
-  `o+              +o`
+.    o.        .o    .
+-`   yyo      oyy   `-
+oNo` yyy      yyy `oNo
+oMMNsyyy      yyysNMMo
+oMMMMyyy      yyyMMMMo
+oMMhdyyyy.  .yyyyyyMMo
+oMMo yyyMMyyMMyyy oMMo
+oMMo yyysNMMNoyyy oMMo
+oMMo yyy `++` yyy oMMo
+oMMo yyy      yyy oMMo
+oMMo oyy      yyo oMMo
+oMMo  .o      o.  oMMo
+oMMo              oMMo
+:NMo              oMN:
+ `o+              +o`
 
 ```
 
