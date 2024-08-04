@@ -1,6 +1,6 @@
 ![](./img/header.png)
 
-# Greetings <span><img width="64px" src="./ico/emojis/eye.gif"></span>
+# Greetings <span><img width="64px" src="./ico/emojis/wave.gif"></span>
 
 <img width="256px" align="right" src="./img/avatar.png">
 
@@ -91,7 +91,7 @@ oMMo              oMMo
 
 <br>
 
-## <span><img width="45px" src="./ico/emojis/earth.gif"></span> Find me around the Internet
+## <span><img width="45px" src="./ico/emojis/eye.gif"></span> Find me around the Internet
 
 [<img title="Not much but it's honest work" alt="Mid Hunter | Instagram" src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 [<img title="You shall not pass!" alt="Mid Hunter | YouTube" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
