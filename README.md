@@ -1,12 +1,12 @@
 ![](./img/header.png)
 
-# Greetings 👋
+# Greetings <span><img width="64px" src="./ico/emojis/wave.gif"></span>
 
 <img width="256px" align="right" src="./img/avatar.png">
 
 I, denominated as Mid, do hereby present myself in the vocation of a Software Engineer. My predilections incline towards the pursuit of erudition, wherein I ardently indulge in the acquisition of knowledge, paired with the audacious enterprise of experimentation upon nascent technological paradigms. Additionally, my proclivities extend to the constructive endeavor of fabricating diminutive undertakings, thereby encapsulating my proclivity for innovation and application within the realm of software development.
 
-## Individualistic Impetus
+## <span><img width="45px" src="./ico/emojis/fishing.gif"></span> Individualistic Impetus
 
 - Engaging in a persistent and concerted effort towards the comprehensive assimilation of the amalgamated totality of human experience, a pursuit that is fraught with the probability of eluding fruition within the span of a single mortal existence.
 - In persuit of adroit mastery through the observation and comprehension of actions of distinct inhabitants of this celestial entity and implementing the contemplated formulated logic pattern to the complications which commences throughout the course of existence.
@@ -37,7 +37,7 @@ oMMo              oMMo
 
 </div>
 
-## Inclinations
+## <span><img width="45px" src="./ico/emojis/unicorn.gif"></span> Inclinations
 
 - ⌨️ Technology and Software: Systematic investigation into human made equipments developed from the application of scientific knowledge and its underlying logical pattern, in order to establish facts and reach new conclusions of the working mechanism of aforementioned equipments.
 - 🖌️ Graphic Design: Crafting digital visual content intended to transmit specific messages achieved through applying comprehensive logically formulated style of visual hierarchy, typeface and page layout of visual elements.
@@ -47,7 +47,7 @@ oMMo              oMMo
 
 <br>
 
-## Tools and Technologies
+## <span><img width="45px" src="./ico/emojis/fire.gif"></span> Tools and Technologies
 
 ### Languages
 
@@ -91,7 +91,7 @@ oMMo              oMMo
 
 <br>
 
-## Find me around the Internet
+## <span><img width="45px" src="./ico/emojis/earth.gif"></span> Find me around the Internet
 
 [<img title="Not much but it's honest work" alt="Mid Hunter | Instagram" src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 [<img title="You shall not pass!" alt="Mid Hunter | YouTube" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
