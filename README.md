@@ -4,6 +4,8 @@
 
 <img width="256px" align="right" src="./img/avatar.png">
 
+<div align="justify">
+
 I, denominated as Mid, do hereby present myself in the vocation of a Software Engineer. My predilections incline towards the pursuit of erudition, wherein I ardently indulge in the acquisition of knowledge, paired with the audacious enterprise of experimentation upon nascent technological paradigms. Additionally, my proclivities extend to the constructive endeavor of fabricating diminutive undertakings, thereby encapsulating my proclivity for innovation and application within the realm of software development.
 
 ## <span><img width="45px" src="./ico/emojis/fishing.gif"></span> &nbsp; Individualistic Impetus
@@ -35,7 +37,7 @@ oMMo              oMMo
 
 ```
 
-</div>
+</div> <!-- End of Center -->
 
 ## <span><img width="45px" src="./ico/emojis/unicorn.gif"></span> &nbsp; Inclinations
 
@@ -89,6 +91,8 @@ oMMo              oMMo
 <span><img width="69" height="69" title="Blender 3D" src="./ico/misc/blender.svg"></span>
 <span><img width="69" height="69" title="Visual Studio Code" src="./ico/tools/vscode.svg"></span>
 
+</div> <!-- End of Justify -->
+
 <br>
 
 ## <span><img width="45px" src="./ico/emojis/eye.gif"></span> &nbsp; Find me around the Internet
@@ -108,6 +112,6 @@ oMMo              oMMo
 
 [youtube]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [instagram]: https://www.instagram.com/mid_hunter
-[spotify]: https://open.spotify.com/user/8u1o1bw0zdxbfvgreer5xmeoa
+[spotify]: https://open.spotify.com/playlist/1Tjpc7zlJH2ATj1Lpl8W3Z
 [reddit]: https://www.reddit.com/user/MidHunterX
 [discord]: https://discord.com/invite/KQxxEyu
