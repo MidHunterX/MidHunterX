@@ -1,6 +1,12 @@
 ![](./img/header.png)
 
-# Greetings &nbsp; <span><img width="45px" src="./ico/emojis/wave.gif"></span>
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=MidHunterX&label=PROFILE+VIEWS&color=grey&style=for-the-badge&abbreviated=true)
+
+</div>
+
+# Greetings <span><img width="45px" src="./ico/emojis/wave.gif"></span>
 
 <img width="256px" align="right" src="./img/avatar.png">
 
