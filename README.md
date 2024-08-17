@@ -1,4 +1,8 @@
+<a href="https://midhunterx.github.io">
+
 ![](./img/header.png)
+
+</a>
 
 <div align="center">
 
@@ -103,6 +107,7 @@ oMMo              oMMo
 
 ## <span><img width="45px" src="./ico/emojis/eye.gif"></span> &nbsp; Find me around the Internet
 
+[<img title="The Musk Social Media" alt="Mid_Hunter | X" src="https://img.shields.io/badge/-X-333333?style=for-the-badge&logo=X&logoColor=white" />][twitter]
 [<img title="Not much but it's honest work" alt="Mid Hunter | Instagram" src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 [<img title="You shall not pass!" alt="Mid Hunter | YouTube" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
 [<img title="Dem feels bro" alt="MidHunterX | Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white" />][spotify]
@@ -121,3 +126,4 @@ oMMo              oMMo
 [spotify]: https://open.spotify.com/playlist/1Tjpc7zlJH2ATj1Lpl8W3Z
 [reddit]: https://www.reddit.com/user/MidHunterX
 [discord]: https://discord.com/invite/KQxxEyu
+[twitter]: https://x.com/Mid_Hunter
