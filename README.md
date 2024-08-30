@@ -1,4 +1,4 @@
-> Click this header image to go to **Portfolio**
+> Click this header image to go view **Portfolio**
 
 <a href="https://midhunterx.github.io">
 
@@ -25,7 +25,7 @@ I, denominated as Mid, do hereby present myself in the vocation of a Software En
 - Engaging in a persistent and concerted effort towards the comprehensive assimilation of the amalgamated totality of human experience, a pursuit that is fraught with the probability of eluding fruition within the span of a single mortal existence.
 - In persuit of adroit mastery through the observation and comprehension of actions of distinct inhabitants of this celestial entity and implementing the contemplated formulated logic pattern to the complications which commences throughout the course of existence.
 
-<br>
+<br/>
 
 <div align="center">
 
@@ -59,53 +59,66 @@ oMMo              oMMo
 - ✍️ Physical/Digital Art
 - 🔒 Computer Security
 
-<br>
+</div> <!-- End of Justify -->
+
+<br/>
 
 ## <span><img width="45px" src="./ico/emojis/fire.gif"></span> &nbsp; Tools and Technologies
 
 ### Languages
 
-<span><img width="69" height="69" title="C" src="./ico/languages/c.svg"></span>
-<span><img width="69" height="69" title="Python" src="./ico/languages/python.svg"></span>
-<span><img width="69" height="69" title="HTML5" src="./ico/languages/html5.svg"></span>
-<span><img width="69" height="69" title="CSS3" src="./ico/languages/css3.svg"></span>
-<span><img width="69" height="69" title="JavaScript" src="./ico/languages/javascript.svg"></span>
-<span><img width="69" height="69" title="TypeScript" src="./ico/languages/typescript.svg"></span>
-<span><img width="69" height="69" title="Java" src="./ico/languages/java.svg"></span>
-<span><img width="69" height="69" title="Lua" src="./ico/languages/lua.svg"></span>
-<span><img width="69" height="69" title="Bash" src="./ico/languages/bash.svg"></span>
+<span>
+    <img width="69" height="69" title="C" src="./ico/languages/c.svg" /> &nbsp;
+    <img width="69" height="69" title="Python" src="./ico/languages/python.svg" /> &nbsp;
+    <img width="69" height="69" title="Java" src="./ico/languages/java.svg" /> &nbsp;
+    <img width="69" height="69" title="HTML" src="./ico/languages/html5.svg" /> &nbsp;
+    <img width="69" height="69" title="CSS" src="./ico/languages/css3.svg" /> &nbsp;
+    <img width="69" height="69" title="JavaScript" src="./ico/languages/javascript.svg" /> &nbsp;
+    <img width="69" height="69" title="TypeScript" src="./ico/languages/typescript.svg" /> &nbsp;
+    <img width="69" height="69" title="Lua" src="./ico/languages/lua.svg" /> &nbsp;
+    <img width="69" height="69" title="Bash" src="./ico/languages/gnubash.svg" /> &nbsp;
+    <img width="69" height="69" title="Fish" src="./ico/languages/fishshell.svg" /> &nbsp;
+</span>
 
-### Databases and Frameworks
+### Databases, Frameworks and Libraries
 
-<span><img width="69" height="69" title="SQLite" src="./ico/databases/sqlite.svg"></span>
-<span><img width="69" height="69" title="MySQL" src="./ico/databases/mysql.svg"></span>
-<span><img width="69" height="69" title="Bootstrap" src="./ico/frameworks/bootstrap.svg"></span>
-<span><img width="69" height="69" title="TailwindCSS" src="./ico/frameworks/tailwindcss.svg"></span>
-<span><img width="69" height="69" title="Django" src="./ico/frameworks/django.svg"></span>
-<span><img width="69" height="69" title="NextJS" src="./ico/frameworks/nextjs.svg"></span>
-<span><img width="69" height="69" title="NodeJS" src="./ico/frameworks/nodejs.svg"></span>
+<span>
+    <img width="69" height="69" title="JSON" src="./ico/databases/json.svg" /> &nbsp;
+    <img width="69" height="69" title="MySQL" src="./ico/databases/mysql.svg" /> &nbsp;
+    <img width="69" height="69" title="SQLite" src="./ico/databases/sqlite.svg" /> &nbsp;
+    <img width="69" height="69" title="Django" src="./ico/frameworks/django.svg" /> &nbsp;
+    <img width="69" height="69" title="NextJS" src="./ico/frameworks/nextdotjs.svg" /> &nbsp;
+    <img width="69" height="69" title="Bootstrap" src="./ico/frameworks/bootstrap.svg" /> &nbsp;
+    <img width="69" height="69" title="Tailwind CSS" src="./ico/frameworks/tailwindcss.svg" /> &nbsp;
+    <img width="69" height="69" title="Headless UI" src="./ico/libraries/headlessui.svg" /> &nbsp;
+    <img width="69" height="69" title="Framer Motion" src="./ico/libraries/framer.svg" /> &nbsp;
+    <img width="69" height="69" title="React" src="./ico/libraries/react.svg" /> &nbsp;
+    <img width="69" height="69" title="NodeJS" src="./ico/runtime_env/nodedotjs.svg" /> &nbsp;
+</span>
 
 ### Development Tools
 
-<span><img width="69" height="69" title="Git" src="./ico/tools/git.svg"></span>
-<span><img width="69" height="69" title="NeoVim" src="./ico/tools/nvim.svg"></span>
-<span><img width="69" height="69" title="Terminal Multiplexer (TMUX)" src="./ico/tools/tmux.svg"></span>
-<span><img width="69" height="69" title="Firefox" src="./ico/tools/firefox.svg"></span>
-<span><img width="69" height="69" title="Linux" src="./ico/tools/linux.svg"></span>
-<span><img width="69" height="69" title="Secure Shell (SSH)" src="./ico/tools/ssh.svg"></span>
+<span>
+    <img width="69" height="69" title="Git" src="./ico/tools/git.svg" /> &nbsp;
+    <img width="69" height="69" title="Neovim" src="./ico/tools/neovim.svg" /> &nbsp;
+    <img width="69" height="69" title="Tmux" src="./ico/tools/tmux.svg" /> &nbsp;
+    <img width="69" height="69" title="GitHub" src="./ico/tools/github.svg" /> &nbsp;
+    <img width="69" height="69" title="VS Codium" src="./ico/tools/vscodium.svg" /> &nbsp;
+    <img width="69" height="69" title="Firefox" src="./ico/tools/firefox.svg" /> &nbsp;
+    <img width="69" height="69" title="Linux" src="./ico/tools/linux.svg" /> &nbsp;
+</span>
 
 ### Misc Tools
 
-<span><img width="69" height="69" title="Adobe Photoshop" src="./ico/misc/photoshop.svg"></span>
-<span><img width="69" height="69" title="Adobe Indesign" src="./ico/misc/indesign.svg"></span>
-<span><img width="69" height="69" title="Adobe Premiere Pro" src="./ico/misc/premierepro.svg"></span>
-<span><img width="69" height="69" title="Inkscape" src="./ico/misc/inkscape.svg"></span>
-<span><img width="69" height="69" title="Blender 3D" src="./ico/misc/blender.svg"></span>
-<span><img width="69" height="69" title="Visual Studio Code" src="./ico/tools/vscode.svg"></span>
+<span>
+    <img width="69" height="69" title="InDesign" src="./ico/misc/adobeindesign.svg" /> &nbsp;
+    <img width="69" height="69" title="Photoshop" src="./ico/misc/adobephotoshop.svg" /> &nbsp;
+    <img width="69" height="69" title="Premiere Pro" src="./ico/misc/adobepremierepro.svg" /> &nbsp;
+    <img width="69" height="69" title="Inkscape" src="./ico/misc/inkscape.svg" /> &nbsp;
+    <img width="69" height="69" title="Blender 3D" src="./ico/misc/blender.svg" /> &nbsp;
+</span>
 
-</div> <!-- End of Justify -->
-
-<br>
+<br/>
 
 ## <span><img width="45px" src="./ico/emojis/eye.gif"></span> &nbsp; Find me around the Internet
 
