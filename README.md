@@ -111,6 +111,7 @@ oMMo              oMMo
 ### Misc Tools
 
 <span>
+    <img width="60" height="60" title="Figma" src="./ico/misc/figma.svg" /> &nbsp;
     <img width="60" height="60" title="InDesign" src="./ico/misc/adobeindesign.svg" /> &nbsp;
     <img width="60" height="60" title="Photoshop" src="./ico/misc/adobephotoshop.svg" /> &nbsp;
     <img width="60" height="60" title="Premiere Pro" src="./ico/misc/adobepremierepro.svg" /> &nbsp;
