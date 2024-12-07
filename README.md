@@ -68,55 +68,55 @@ oMMo              oMMo
 ### Languages
 
 <span>
-    <img width="60" height="60" title="C" src="./ico/languages/c.svg" /> &nbsp;
-    <img width="60" height="60" title="Python" src="./ico/languages/python.svg" /> &nbsp;
-    <img width="60" height="60" title="Java" src="./ico/languages/java.svg" /> &nbsp;
-    <img width="60" height="60" title="HTML" src="./ico/languages/html5.svg" /> &nbsp;
-    <img width="60" height="60" title="CSS" src="./ico/languages/css3.svg" /> &nbsp;
-    <img width="60" height="60" title="JavaScript" src="./ico/languages/javascript.svg" /> &nbsp;
-    <img width="60" height="60" title="TypeScript" src="./ico/languages/typescript.svg" /> &nbsp;
-    <img width="60" height="60" title="Lua" src="./ico/languages/lua.svg" /> &nbsp;
-    <img width="60" height="60" title="Bash" src="./ico/languages/gnubash.svg" /> &nbsp;
-    <img width="60" height="60" title="Fish" src="./ico/languages/fishshell.svg" /> &nbsp;
+    <img width="50" height="50" title="C" src="./ico/languages/c.svg" /> <img width="10" />
+    <img width="50" height="50" title="Python" src="./ico/languages/python.svg" /> <img width="10" />
+    <img width="50" height="50" title="Java" src="./ico/languages/java.svg" /> <img width="10" />
+    <img width="50" height="50" title="HTML" src="./ico/languages/html5.svg" /> <img width="10" />
+    <img width="50" height="50" title="CSS" src="./ico/languages/css3.svg" /> <img width="10" />
+    <img width="50" height="50" title="JavaScript" src="./ico/languages/javascript.svg" /> <img width="10" />
+    <img width="50" height="50" title="TypeScript" src="./ico/languages/typescript.svg" /> <img width="10" />
+    <img width="50" height="50" title="Lua" src="./ico/languages/lua.svg" /> <img width="10" />
+    <img width="50" height="50" title="Bash" src="./ico/languages/gnubash.svg" /> <img width="10" />
+    <img width="50" height="50" title="Fish" src="./ico/languages/fishshell.svg" /> <img width="10" />
 </span>
 
 ### Databases, Frameworks and Libraries
 
 <span>
-    <img width="60" height="60" title="MySQL" src="./ico/databases/mysql.svg" /> &nbsp;
-    <img width="60" height="60" title="SQLite" src="./ico/databases/sqlite.svg" /> &nbsp;
-    <img width="60" height="60" title="JSON" src="./ico/databases/json.svg" /> &nbsp;
-    <img width="60" height="60" title="Django" src="./ico/frameworks/django.svg" /> &nbsp;
-    <img width="60" height="60" title="NextJS" src="./ico/frameworks/nextdotjs.svg" /> &nbsp;
-    <img width="60" height="60" title="Bootstrap" src="./ico/frameworks/bootstrap.svg" /> &nbsp;
-    <img width="60" height="60" title="Tailwind CSS" src="./ico/frameworks/tailwindcss.svg" /> &nbsp;
-    <img width="60" height="60" title="Headless UI" src="./ico/libraries/headlessui.svg" /> &nbsp;
-    <img width="60" height="60" title="Framer Motion" src="./ico/libraries/framer.svg" /> &nbsp;
-    <img width="60" height="60" title="React" src="./ico/libraries/react.svg" /> &nbsp;
-    <img width="60" height="60" title="NodeJS" src="./ico/runtime_env/nodedotjs.svg" /> &nbsp;
+    <img width="50" height="50" title="MySQL" src="./ico/databases/mysql.svg" /> <img width="10" />
+    <img width="50" height="50" title="SQLite" src="./ico/databases/sqlite.svg" /> <img width="10" />
+    <img width="50" height="50" title="JSON" src="./ico/databases/json.svg" /> <img width="10" />
+    <img width="50" height="50" title="Django" src="./ico/frameworks/django.svg" /> <img width="10" />
+    <img width="50" height="50" title="NextJS" src="./ico/frameworks/nextdotjs.svg" /> <img width="10" />
+    <img width="50" height="50" title="Bootstrap" src="./ico/frameworks/bootstrap.svg" /> <img width="10" />
+    <img width="50" height="50" title="Tailwind CSS" src="./ico/frameworks/tailwindcss.svg" /> <img width="10" />
+    <img width="50" height="50" title="Headless UI" src="./ico/libraries/headlessui.svg" /> <img width="10" />
+    <img width="50" height="50" title="Framer Motion" src="./ico/libraries/framer.svg" /> <img width="10" />
+    <img width="50" height="50" title="React" src="./ico/libraries/react.svg" /> <img width="10" />
+    <img width="50" height="50" title="NodeJS" src="./ico/runtime_env/nodedotjs.svg" /> <img width="10" />
 </span>
 
 ### Development Tools
 
 <span>
-    <img width="60" height="60" title="Git" src="./ico/tools/git.svg" /> &nbsp;
-    <img width="60" height="60" title="Neovim" src="./ico/tools/neovim.svg" /> &nbsp;
-    <img width="60" height="60" title="Tmux" src="./ico/tools/tmux.svg" /> &nbsp;
-    <img width="60" height="60" title="GitHub" src="./ico/tools/github.svg" /> &nbsp;
-    <img width="60" height="60" title="VS Codium" src="./ico/tools/vscodium.svg" /> &nbsp;
-    <img width="60" height="60" title="Firefox" src="./ico/tools/firefox.svg" /> &nbsp;
-    <img width="60" height="60" title="Linux" src="./ico/tools/linux.svg" /> &nbsp;
+    <img width="50" height="50" title="Git" src="./ico/tools/git.svg" /> <img width="10" />
+    <img width="50" height="50" title="Neovim" src="./ico/tools/neovim.svg" /> <img width="10" />
+    <img width="50" height="50" title="Tmux" src="./ico/tools/tmux.svg" /> <img width="10" />
+    <img width="50" height="50" title="GitHub" src="./ico/tools/github.svg" /> <img width="10" />
+    <img width="50" height="50" title="VS Codium" src="./ico/tools/vscodium.svg" /> <img width="10" />
+    <img width="50" height="50" title="Firefox" src="./ico/tools/firefox.svg" /> <img width="10" />
+    <img width="50" height="50" title="Linux" src="./ico/tools/linux.svg" /> <img width="10" />
 </span>
 
 ### Misc Tools
 
 <span>
-    <img width="60" height="60" title="Figma" src="./ico/misc/figma.svg" /> &nbsp;
-    <img width="60" height="60" title="InDesign" src="./ico/misc/adobeindesign.svg" /> &nbsp;
-    <img width="60" height="60" title="Photoshop" src="./ico/misc/adobephotoshop.svg" /> &nbsp;
-    <img width="60" height="60" title="Premiere Pro" src="./ico/misc/adobepremierepro.svg" /> &nbsp;
-    <img width="60" height="60" title="Inkscape" src="./ico/misc/inkscape.svg" /> &nbsp;
-    <img width="60" height="60" title="Blender 3D" src="./ico/misc/blender.svg" /> &nbsp;
+    <img width="50" height="50" title="Figma" src="./ico/misc/figma.svg" /> <img width="10" />
+    <img width="50" height="50" title="InDesign" src="./ico/misc/adobeindesign.svg" /> <img width="10" />
+    <img width="50" height="50" title="Photoshop" src="./ico/misc/adobephotoshop.svg" /> <img width="10" />
+    <img width="50" height="50" title="Premiere Pro" src="./ico/misc/adobepremierepro.svg" /> <img width="10" />
+    <img width="50" height="50" title="Inkscape" src="./ico/misc/inkscape.svg" /> <img width="10" />
+    <img width="50" height="50" title="Blender 3D" src="./ico/misc/blender.svg" /> <img width="10" />
 </span>
 
 <br/>
