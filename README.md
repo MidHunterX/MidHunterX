@@ -14,7 +14,7 @@
 
 # Greetings <span><img width="45px" src="./ico/emojis/wave.gif"></span>
 
-<img width="256px" align="right" src="./img/avatar.png">
+<a href="https://roadmap.sh/u/midhunterx"><img align="right" src="https://roadmap.sh/card/tall/677132da70129741a8e9dd61?variant=dark" alt="roadmap.sh"/></a>
 
 <div align="justify">
 
@@ -27,34 +27,6 @@ I, denominated as Mid, do hereby present myself in the vocation of a Software En
 - Engaging in a persistent and concerted effort towards the comprehensive assimilation of the amalgamated totality of human experience, a pursuit that is fraught with the probability of eluding fruition within the span of a single mortal existence.
 - In persuit of adroit mastery through the observation and comprehension of actions of distinct inhabitants of this celestial entity and implementing the contemplated formulated logic pattern to the complications which commences throughout the course of existence.
 
-<br/>
-
-<img align="right" src="https://roadmap.sh/card/tall/677132da70129741a8e9dd61?variant=dark" alt="roadmap.sh"/>
-
-<div align="center">
-
-```
-
-.    o.        .o    .
--`   yyo      oyy   `-
-oNo` yyy      yyy `oNo
-oMMNsyyy      yyysNMMo
-oMMMMyyy      yyyMMMMo
-oMMhdyyyy.  .yyyyyyMMo
-oMMo yyyMMyyMMyyy oMMo
-oMMo yyysNMMNoyyy oMMo
-oMMo yyy `++` yyy oMMo
-oMMo yyy      yyy oMMo
-oMMo oyy      yyo oMMo
-oMMo  .o      o.  oMMo
-oMMo              oMMo
-:NMo              oMN:
- `o+              +o`
-
-```
-
-</div> <!-- End of Center -->
-
 ## <span><img width="45px" src="./ico/emojis/unicorn.gif"></span> &nbsp; Inclinations
 
 - ⌨️ Technology and Software: Systematic investigation into human made equipments developed from the application of scientific knowledge and its underlying logical pattern, in order to establish facts and reach new conclusions of the working mechanism of aforementioned equipments.
@@ -64,8 +36,6 @@ oMMo              oMMo
 - 🔒 Computer Security
 
 </div> <!-- End of Justify -->
-
-<br/>
 
 ## <span><img width="45px" src="./ico/emojis/fire.gif"></span> &nbsp; Tools and Technologies
 
