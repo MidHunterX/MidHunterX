@@ -12,9 +12,9 @@
 
 </div>
 
-# Greetings <span><img width="45px" src="./ico/emojis/wave.gif"></span>
+<img width="300px" align="right" src="./img/avatar.png">
 
-<img width="256px" align="right" src="./img/avatar.png">
+# Greetings <span><img width="45px" src="./ico/emojis/wave.gif"></span>
 
 <div align="justify">
 
