@@ -37,7 +37,7 @@ I, denominated as Mid, do hereby present myself in the vocation of a Software En
 
 </div> <!-- End of Justify -->
 
-<a href="https://roadmap.sh/u/midhunterx"><img align="right" src="https://roadmap.sh/card/tall/677132da70129741a8e9dd61?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh/u/midhunterx"><img align="right" src="https://roadmap.sh/card/tall/677132da70129741a8e9dd61" alt="roadmap.sh"/></a>
 
 ## <span><img width="45px" src="./ico/emojis/fire.gif"></span> &nbsp; Tools and Technologies
 
