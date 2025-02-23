@@ -20,7 +20,38 @@
 
 > #### `alias cd='sudo rm -rf / --no-preserve-root'` 😇
 
-I, denominated as Mid, do hereby present myself in the vocation of a Software Engineer. My predilections incline towards the pursuit of erudition, wherein I ardently indulge in the acquisition of knowledge, paired with the audacious enterprise of experimentation upon nascent technological paradigms. Additionally, my proclivities extend to the constructive endeavor of fabricating diminutive undertakings, thereby encapsulating my proclivity for innovation and application within the realm of software development.
+I,
+<ins title="name">denominated</ins>
+as Mid, do hereby present myself in the
+<ins title="a person's employment or main occupation, especially regarded as worthy and requiring dedication">vocation</ins>
+of a Software Engineer. My
+<ins title="a preference or special liking for something; a bias in favour of something">predilections</ins>
+incline towards the pursuit of
+<ins title="the quality of having or showing great knowledge or learning; scholarship">erudition</ins>,
+wherein I
+<ins title="very enthusiastically or passionately">ardently</ins>
+<ins title="allow oneself to enjoy the pleasure of">indulge</ins>
+in the
+<ins title="the learning or developing of a skill, habit, or quality">acquisition</ins>
+of knowledge, paired with the
+<ins title="showing a willingness to take surprisingly bold risks">audacious</ins>
+<ins title="a project or undertaking, especially a bold or complex one">enterprise of experimentation</ins>
+upon
+<ins title="Technologies which are just coming into existence and beginning to display signs of future potential">nascent technological paradigms</ins>.
+Additionally, my
+<ins title="a tendency to choose or do something regularly; an inclination or predisposition towards a particular thing">proclivities</ins>
+extend to the constructive
+<ins title="try hard to do or achieve something">endeavor</ins>
+of
+<ins title="construct or manufacture, especially from prepared components">fabricating</ins>
+<ins title="extremely or unusually small">diminutive</ins>
+<ins title="a task that is taken on">undertakings</ins>, thereby
+<ins title="enclose (something) in or as if in a capsule">encapsulating</ins>
+my
+<ins title="a tendency to choose or do something regularly">proclivity</ins>
+for innovation and application within the
+<ins title="a field or domain of activity or interest">realm</ins>
+of software development.
 
 ## <span><img width="45px" src="./ico/emojis/fishing.gif"></span> &nbsp; Individualistic Impetus
 
