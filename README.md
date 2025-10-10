@@ -2,17 +2,15 @@
 
 <a href="https://midhunterx.github.io">
 
-![](./img/header.png)
+![Portfolio](./img/header.png)
 
 </a>
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=MidHunterX&label=PROFILE+VIEWS&color=grey&style=for-the-badge&abbreviated=true)
+![Profile Views](https://komarev.com/ghpvc/?username=MidHunterX&label=PROFILE+VIEWS&color=grey&style=for-the-badge&abbreviated=true)
 
 </div>
-
-<img width="300px" align="right" src="./img/avatar.png">
 
 # Greetings <span><img width="45px" src="./ico/emojis/wave.gif"></span>
 
@@ -20,111 +18,93 @@
 
 > #### `alias cd='sudo rm -rf / --no-preserve-root'` 😇
 
-I,
-<ins title="name">denominated</ins>
-as Mid, do hereby present myself in the
-<ins title="a person's employment or main occupation, especially regarded as worthy and requiring dedication">vocation</ins>
-of a Software Engineer. My
-<ins title="a preference or special liking for something; a bias in favour of something">predilections</ins>
-incline towards the pursuit of
-<ins title="the quality of having or showing great knowledge or learning; scholarship">erudition</ins>,
-wherein I
-<ins title="very enthusiastically or passionately">ardently</ins>
-<ins title="allow oneself to enjoy the pleasure of">indulge</ins>
-in the
-<ins title="the learning or developing of a skill, habit, or quality">acquisition</ins>
-of knowledge, paired with the
-<ins title="showing a willingness to take surprisingly bold risks">audacious</ins>
-<ins title="a project or undertaking, especially a bold or complex one">enterprise of experimentation</ins>
-upon
-<ins title="Technologies which are just coming into existence and beginning to display signs of future potential">nascent technological paradigms</ins>.
-Additionally, my
-<ins title="a tendency to choose or do something regularly; an inclination or predisposition towards a particular thing">proclivities</ins>
-extend to the constructive
-<ins title="try hard to do or achieve something">endeavor</ins>
-of
-<ins title="construct or manufacture, especially from prepared components">fabricating</ins>
-<ins title="extremely or unusually small">diminutive</ins>
-<ins title="a task that is taken on">undertakings</ins>, thereby
-<ins title="enclose (something) in or as if in a capsule">encapsulating</ins>
-my
-<ins title="a tendency to choose or do something regularly">proclivity</ins>
-for innovation and application within the
-<ins title="a field or domain of activity or interest">realm</ins>
-of software development.
+I, <span title="name">denominated</span> as Mid, do hereby present myself in the <span title="a person's employment or main occupation, especially regarded as worthy and requiring dedication">vocation</span> of a Software Engineer. My <span title="a preference or special liking for something; a bias in favour of something">predilections</span> incline towards the pursuit of <span title="the quality of having or showing great knowledge or learning; scholarship">erudition</span>, wherein I <span title="very enthusiastically or passionately">ardently</span> <span title="allow oneself to enjoy the pleasure of">indulge</span> in the <span title="the learning or developing of a skill, habit, or quality">acquisition</span> of knowledge, paired with the <span title="showing a willingness to take surprisingly bold risks">audacious</span> <span title="a project or undertaking, especially a bold or complex one">enterprise of experimentation</span> upon <span title="Technologies which are just coming into existence and beginning to display signs of future potential">nascent technological paradigms</span>. Additionally, my <span title="a tendency to choose or do something regularly; an inclination or predisposition towards a particular thing">proclivities</span> extend to the constructive <span title="try hard to do or achieve something">endeavor</span> of <span title="construct or manufacture, especially from prepared components">fabricating</span> <span title="extremely or unusually small">diminutive</span> <span title="a task that is taken on">undertakings</span>, thereby <span title="enclose (something) in or as if in a capsule">encapsulating</span> my <span title="a tendency to choose or do something regularly">proclivity</span> for innovation and application within the <span title="a field or domain of activity or interest">realm</span> of software development.
 
 ## <span><img width="45px" src="./ico/emojis/fishing.gif"></span> &nbsp; Individualistic Impetus
 
-- Engaging in a persistent and concerted effort towards the comprehensive assimilation of the amalgamated totality of human experience, a pursuit that is fraught with the probability of eluding fruition within the span of a single mortal existence.
-- In persuit of adroit mastery through the observation and comprehension of actions of distinct inhabitants of this celestial entity and implementing the contemplated formulated logic pattern to the complications which commences throughout the course of existence.
+- <span title="To take part in or dedicate oneself to an activity">Engaging </span> in a <span title="Continuing firmly or obstinately in a course of action despite difficulty">persistent</span> and <span title="Jointly arranged or carried out; coordinated">concerted</span> effort towards the <span title="Thorough or all-encompassing understanding or absorption">comprehensive assimilation</span> of the <span title="A combination or fusion of multiple elements into one form">amalgamated totality</span> of <span title="The sum of all collective perception, emotion, and consciousness that defines human existence">human experience</span>, a pursuit that is <span title="Filled or laden with something undesirable or difficult">fraught</span> with the <span title="Likelihood or chance of a particular outcome occurring">probability</span> of <span title="Avoiding or escaping capture, understanding, or realization">eluding fruition</span> within the span of a single <span title="Pertaining to human life or existence">mortal existence</span>.
+- In <span title="An effort or striving to attain or accomplish something">pursuit</span> of <span title="Cleverness and skill in handling situations or problems">adroit mastery</span> through the <span title="Careful watching and noting of phenomena as they occur">observation</span> and <span title="The act or capacity of understanding; grasping meaning">comprehension</span> of actions of <span title="Distinct and self-aware beings within a shared environment">distinct inhabitants</span> of this <span title="Pertaining to or characteristic of the Earth or heavenly body">celestial entity</span> and <span title="To put into practice or execution">implementing</span> the <span title="Deliberately conceived and systematically arranged course of action or reasoning">contemplated formulated logic pattern</span> to the <span title="Difficult or complex problems or obstacles that require resolution">complications</span> which <span title="Begin or arise; to have their origin">commence</span> throughout the course of <span title="The state of being alive, conscious, and active">existence</span>.
 
 ## <span><img width="45px" src="./ico/emojis/unicorn.gif"></span> &nbsp; Inclinations
 
-- ⌨️ Technology and Software: Systematic investigation into human made equipments developed from the application of scientific knowledge and its underlying logical pattern, in order to establish facts and reach new conclusions of the working mechanism of aforementioned equipments.
-- 🖌️ Graphic Design: Crafting digital visual content intended to transmit specific messages achieved through applying comprehensive logically formulated style of visual hierarchy, typeface and page layout of visual elements.
-- 🌐 Engrish: Formulation of obfuscatory sesquipedalian lexicological formations and elaboration of convoluted circumlocutions using the English lexicon.
+- ⌨️ <span title="The practical application of scientific knowledge for industrial or other purposes">Technology</span> and <span title="The programs and operating information used by a computer">Software</span>: <span title="Methodical exploration and analysis aimed at discovering truth or understanding">Systematic investigation</span> into <span title="Objects, devices, or tools created by humans for specific functions">human-made equipments</span> developed from the <span title="Application of organized scientific principles to practical ends">application of scientific knowledge</span> and its <span title="Underlying set of rules or relationships governing function or behavior">underlying logical pattern</span>, in order to <span title="Establish or prove through observation and reasoning">establish facts</span> and <span title="Reach an informed or reasoned judgment or result">reach new conclusions</span> of the <span title="The mechanism or process by which something operates or functions">working mechanism</span> of the aforementioned equipments.
+- 🖌️ <span title="The art or practice of planning and projecting ideas and experiences with visual and textual content">Graphic Design</span>: <span title="Creating or constructing something with artistic skill and intent">Crafting</span> digital visual content intended to <span title="Convey or make known an intended meaning to others">transmit specific messages</span> achieved through applying <span title="Thorough and well-rounded understanding based on knowledge and experience">comprehensive</span> logically formulated <span title="The arrangement of elements according to their importance or emphasis in communication">style of visual hierarchy</span>, <span title="A particular design of letters and characters used for text">typeface</span> and <span title="The arrangement and composition of visual elements on a page or screen">page layout</span> of <span title="Individual components of an image or design composition">visual elements</span>.
+- 🌐 <span title="A humorous or stylistically distorted variation of English often used intentionally for effect">Engrish</span>: <span title="The systematic creation or structuring of linguistic expressions or ideas">Formulation</span> of <span title="Deliberately complex or ambiguous expressions intended to obscure meaning">obfuscatory</span> <span title="Given to or characterized by the use of long words">sesquipedalian</span> <span title="The study or collection of words and their meanings">lexicological</span> formations and <span title="Detailed or expanded explanations often using more words than necessary">elaboration</span> of <span title="A roundabout or indirect way of speaking">convoluted circumlocutions</span> using the <span title="The complete vocabulary of a language">English lexicon</span>.
 - ✍️ Physical/Digital Art
 - 🔒 Computer Security
 
 </div> <!-- End of Justify -->
 
-<a href="https://roadmap.sh/u/midhunterx"><img align="right" src="https://roadmap.sh/card/tall/677132da70129741a8e9dd61" alt="roadmap.sh"/></a>
+## <span><img width="45px" src="./ico/emojis/fire.gif"></span> &nbsp; Technologies
 
-## <span><img width="45px" src="./ico/emojis/fire.gif"></span> &nbsp; Tools and Technologies
+<img width="300px" align="right" src="./img/avatar.png">
 
-### Languages
+Languages:
 
-<span>
-    <img width="50" height="50" title="C" src="./ico/languages/c.svg" /> <img width="10" />
-    <img width="50" height="50" title="Python" src="./ico/languages/python.svg" /> <img width="10" />
-    <img width="50" height="50" title="Java" src="./ico/languages/java.svg" /> <img width="10" />
-    <img width="50" height="50" title="HTML" src="./ico/languages/html5.svg" /> <img width="10" />
-    <img width="50" height="50" title="CSS" src="./ico/languages/css3.svg" /> <img width="10" />
-    <img width="50" height="50" title="JavaScript" src="./ico/languages/javascript.svg" /> <img width="10" />
-    <img width="50" height="50" title="TypeScript" src="./ico/languages/typescript.svg" /> <img width="10" />
-    <img width="50" height="50" title="Lua" src="./ico/languages/lua.svg" /> <img width="10" />
-    <img width="50" height="50" title="Bash" src="./ico/languages/gnubash.svg" /> <img width="10" />
-    <img width="50" height="50" title="Fish" src="./ico/languages/fishshell.svg" /> <img width="10" />
-</span>
+<div>
+  <img title="Hyper Text Markup Language (HTML)" src="https://skillicons.dev/icons?i=html" />
+  <img title="Cascading Style Sheets (CSS)" src="https://skillicons.dev/icons?i=css" />
+  <img title="Rust" src="https://skillicons.dev/icons?i=rust" />
+  <img title="Java" src="https://skillicons.dev/icons?i=java" />
+  <img title="C" src="https://skillicons.dev/icons?i=c" />
+</div>
 
-### Databases, Frameworks and Libraries
+Scripting:
 
-<span>
-    <img width="50" height="50" title="MySQL" src="./ico/databases/mysql.svg" /> <img width="10" />
-    <img width="50" height="50" title="SQLite" src="./ico/databases/sqlite.svg" /> <img width="10" />
-    <img width="50" height="50" title="JSON" src="./ico/databases/json.svg" /> <img width="10" />
-    <img width="50" height="50" title="Django" src="./ico/frameworks/django.svg" /> <img width="10" />
-    <img width="50" height="50" title="NextJS" src="./ico/frameworks/nextdotjs.svg" /> <img width="10" />
-    <img width="50" height="50" title="Bootstrap" src="./ico/frameworks/bootstrap.svg" /> <img width="10" />
-    <img width="50" height="50" title="Tailwind CSS" src="./ico/frameworks/tailwindcss.svg" /> <img width="10" />
-    <img width="50" height="50" title="Headless UI" src="./ico/libraries/headlessui.svg" /> <img width="10" />
-    <img width="50" height="50" title="Framer Motion" src="./ico/libraries/framer.svg" /> <img width="10" />
-    <img width="50" height="50" title="React" src="./ico/libraries/react.svg" /> <img width="10" />
-    <img width="50" height="50" title="NodeJS" src="./ico/runtime_env/nodedotjs.svg" /> <img width="10" />
-</span>
+<div>
+  <img title="Python" src="https://skillicons.dev/icons?i=python" />
+  <img title="Typescript" src="https://skillicons.dev/icons?i=ts" />
+  <img title="Javascript" src="https://skillicons.dev/icons?i=js" />
+  <img title="Lua" src="https://skillicons.dev/icons?i=lua" />
+  <img title="Bash" src="https://skillicons.dev/icons?i=bash" />
+</div>
 
-### Development Tools
+Frameworks:
 
-<span>
-    <img width="50" height="50" title="Git" src="./ico/tools/git.svg" /> <img width="10" />
-    <img width="50" height="50" title="Neovim" src="./ico/tools/neovim.svg" /> <img width="10" />
-    <img width="50" height="50" title="Tmux" src="./ico/tools/tmux.svg" /> <img width="10" />
-    <img width="50" height="50" title="GitHub" src="./ico/tools/github.svg" /> <img width="10" />
-    <img width="50" height="50" title="VS Codium" src="./ico/tools/vscodium.svg" /> <img width="10" />
-    <img width="50" height="50" title="Firefox" src="./ico/tools/firefox.svg" /> <img width="10" />
-    <img width="50" height="50" title="Linux" src="./ico/tools/linux.svg" /> <img width="10" />
-</span>
+<div>
+  <img title="Django" src="https://skillicons.dev/icons?i=django" />
+  <img title="FastAPI" src="https://skillicons.dev/icons?i=fastapi" />
+  <img title="Next.js" src="https://skillicons.dev/icons?i=nextjs" />
+  <img title="Angular" src="https://skillicons.dev/icons?i=angular" />
+</div>
 
-### Misc Tools
+Libraries:
 
-<span>
-    <img width="50" height="50" title="Figma" src="./ico/misc/figma.svg" /> <img width="10" />
-    <img width="50" height="50" title="InDesign" src="./ico/misc/adobeindesign.svg" /> <img width="10" />
-    <img width="50" height="50" title="Photoshop" src="./ico/misc/adobephotoshop.svg" /> <img width="10" />
-    <img width="50" height="50" title="Premiere Pro" src="./ico/misc/adobepremierepro.svg" /> <img width="10" />
-    <img width="50" height="50" title="Inkscape" src="./ico/misc/inkscape.svg" /> <img width="10" />
-    <img width="50" height="50" title="Blender 3D" src="./ico/misc/blender.svg" /> <img width="10" />
-</span>
+<div>
+  <img title="React.js" src="https://skillicons.dev/icons?i=react" />
+  <img title="Nodejs" src="https://skillicons.dev/icons?i=nodejs" />
+  <img title="JQuery" src="https://skillicons.dev/icons?i=jquery" />
+  <img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
+  <img title="TailwindCSS" src="https://skillicons.dev/icons?i=tailwind" />
+</div>
+
+Databases:
+
+<div>
+  <img title="SQLite" src="https://skillicons.dev/icons?i=sqlite" />
+  <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" />
+  <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" />
+</div>
+
+Tools (FOSS):
+
+<div>
+  <img title="Linux" src="https://skillicons.dev/icons?i=linux" />
+  <img title="Neovim" src="https://skillicons.dev/icons?i=neovim" />
+  <img title="Git" src="https://skillicons.dev/icons?i=git" />
+  <img title="Blender" src="https://skillicons.dev/icons?i=blender" />
+</div>
+
+Tools (Proprietary):
+
+<div>
+  <img title="Windows" src="https://skillicons.dev/icons?i=windows" />
+  <img title="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode" />
+  <img title="GitHub" src="https://skillicons.dev/icons?i=github" />
+  <img title="Photoshop" src="https://skillicons.dev/icons?i=ps" />
+  <img title="Premiere Pro" src="https://skillicons.dev/icons?i=pr" />
+  <img title="Obsidian" src="https://skillicons.dev/icons?i=obsidian" />
+</div>
 
 <br/>
 
