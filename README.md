@@ -30,8 +30,6 @@ I, <span title="name">denominated</span> as Mid, do hereby present myself in the
 - ⌨️ <span title="The practical application of scientific knowledge for industrial or other purposes">Technology</span> and <span title="The programs and operating information used by a computer">Software</span>: <span title="Methodical exploration and analysis aimed at discovering truth or understanding">Systematic investigation</span> into <span title="Objects, devices, or tools created by humans for specific functions">human-made equipments</span> developed from the <span title="Application of organized scientific principles to practical ends">application of scientific knowledge</span> and its <span title="Underlying set of rules or relationships governing function or behavior">underlying logical pattern</span>, in order to <span title="Establish or prove through observation and reasoning">establish facts</span> and <span title="Reach an informed or reasoned judgment or result">reach new conclusions</span> of the <span title="The mechanism or process by which something operates or functions">working mechanism</span> of the aforementioned equipments.
 - 🖌️ <span title="The art or practice of planning and projecting ideas and experiences with visual and textual content">Graphic Design</span>: <span title="Creating or constructing something with artistic skill and intent">Crafting</span> digital visual content intended to <span title="Convey or make known an intended meaning to others">transmit specific messages</span> achieved through applying <span title="Thorough and well-rounded understanding based on knowledge and experience">comprehensive</span> logically formulated <span title="The arrangement of elements according to their importance or emphasis in communication">style of visual hierarchy</span>, <span title="A particular design of letters and characters used for text">typeface</span> and <span title="The arrangement and composition of visual elements on a page or screen">page layout</span> of <span title="Individual components of an image or design composition">visual elements</span>.
 - 🌐 <span title="A humorous or stylistically distorted variation of English often used intentionally for effect">Engrish</span>: <span title="The systematic creation or structuring of linguistic expressions or ideas">Formulation</span> of <span title="Deliberately complex or ambiguous expressions intended to obscure meaning">obfuscatory</span> <span title="Given to or characterized by the use of long words">sesquipedalian</span> <span title="The study or collection of words and their meanings">lexicological</span> formations and <span title="Detailed or expanded explanations often using more words than necessary">elaboration</span> of <span title="A roundabout or indirect way of speaking">convoluted circumlocutions</span> using the <span title="The complete vocabulary of a language">English lexicon</span>.
-- ✍️ Physical/Digital Art
-- 🔒 Computer Security
 
 </div> <!-- End of Justify -->
 
@@ -92,6 +90,7 @@ Tools (FOSS):
   <img title="Linux" src="https://skillicons.dev/icons?i=linux" />
   <img title="Neovim" src="https://skillicons.dev/icons?i=neovim" />
   <img title="Git" src="https://skillicons.dev/icons?i=git" />
+  <img title="Firefox" src="https://go-skill-icons.vercel.app/api/icons?i=firefox" />
   <img title="Blender" src="https://skillicons.dev/icons?i=blender" />
 </div>
 
@@ -99,10 +98,10 @@ Tools (Proprietary):
 
 <div>
   <img title="Windows" src="https://skillicons.dev/icons?i=windows" />
-  <img title="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode" />
   <img title="GitHub" src="https://skillicons.dev/icons?i=github" />
-  <img title="Photoshop" src="https://skillicons.dev/icons?i=ps" />
-  <img title="Premiere Pro" src="https://skillicons.dev/icons?i=pr" />
+  <img title="Adobe Photoshop" src="https://skillicons.dev/icons?i=ps" />
+  <img title="Adobe InDesign" src="https://go-skill-icons.vercel.app/api/icons?i=indesign" />
+  <img title="Adobe Premiere Pro" src="https://skillicons.dev/icons?i=pr" />
   <img title="Obsidian" src="https://skillicons.dev/icons?i=obsidian" />
 </div>
 
