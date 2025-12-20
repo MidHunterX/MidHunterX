@@ -1,3 +1,11 @@
+![Yearly Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MidHunterX&theme=dark)
+![GitHub Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=MidHunterX&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MidHunterX&layout=compact&theme=dark&hide_border=true)
+![Commits per Day hours](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MidHunterX&show_icons=true&theme=dark&utcOffset=8)
+![GitHub Streak](https://streak-stats.demolab.com?user=MidHunterX&theme=dark&hide_border=true&mode=weekly)
+
+---
+
 > Click this header image to go view **Portfolio**
 
 <a href="https://midhunterx.github.io">
@@ -19,14 +27,6 @@
 > #### `alias cd='sudo rm -rf / --no-preserve-root'` 😇
 
 I, <span title="name">denominated</span> as Mid, do hereby present myself in the <span title="a person's employment or main occupation, especially regarded as worthy and requiring dedication">vocation</span> of a Software Engineer. My <span title="a preference or special liking for something; a bias in favour of something">predilections</span> incline towards the pursuit of <span title="the quality of having or showing great knowledge or learning; scholarship">erudition</span>, wherein I <span title="very enthusiastically or passionately">ardently</span> <span title="allow oneself to enjoy the pleasure of">indulge</span> in the <span title="the learning or developing of a skill, habit, or quality">acquisition</span> of knowledge, paired with the <span title="showing a willingness to take surprisingly bold risks">audacious</span> <span title="a project or undertaking, especially a bold or complex one">enterprise of experimentation</span> upon <span title="Technologies which are just coming into existence and beginning to display signs of future potential">nascent technological paradigms</span>. Additionally, my <span title="a tendency to choose or do something regularly; an inclination or predisposition towards a particular thing">proclivities</span> extend to the constructive <span title="try hard to do or achieve something">endeavor</span> of <span title="construct or manufacture, especially from prepared components">fabricating</span> <span title="extremely or unusually small">diminutive</span> <span title="a task that is taken on">undertakings</span>, thereby <span title="enclose (something) in or as if in a capsule">encapsulating</span> my <span title="a tendency to choose or do something regularly">proclivity</span> for innovation and application within the <span title="a field or domain of activity or interest">realm</span> of software development.
-
-## <span><img width="45px" src="./ico/emojis/eye.gif"></span> &nbsp; Profile Analytics
-
-![Yearly Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MidHunterX&theme=dark)
-![GitHub Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=MidHunterX&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MidHunterX&layout=compact&theme=dark&hide_border=true)
-![Commits per Day hours](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MidHunterX&show_icons=true&theme=dark&utcOffset=8)
-![GitHub Streak](https://streak-stats.demolab.com?user=MidHunterX&theme=dark&hide_border=true&mode=weekly)
 
 ## <span><img width="45px" src="./ico/emojis/fishing.gif"></span> &nbsp; Individualistic Impetus
 
@@ -115,7 +115,7 @@ Tools (Proprietary):
 
 <br/>
 
-## <span><img width="45px" src="./ico/emojis/earth.gif"></span> &nbsp; Find me around the Internet
+## <span><img width="45px" src="./ico/emojis/eye.gif"></span> &nbsp; Find me around the Internet
 
 [<img title="The Musk Social Media" alt="Mid_Hunter | X" src="https://img.shields.io/badge/-X-333333?style=for-the-badge&logo=X&logoColor=white" />][twitter]
 [<img title="Not much but it's honest work" alt="Mid Hunter | Instagram" src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
