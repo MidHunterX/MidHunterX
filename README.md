@@ -2,7 +2,7 @@
 ![GitHub Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=MidHunterX&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MidHunterX&layout=compact&theme=dark&hide_border=true)
 ![Commits per Day hours](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MidHunterX&show_icons=true&theme=dark&utcOffset=8)
-![GitHub Streak](https://streak-stats.demolab.com?user=MidHunterX&theme=dark&hide_border=true&mode=weekly)
+![GitHub Streak](https://github-readme-streak-stats-nine-ebon.vercel.app?user=MidHunterX&theme=dark&hide_border=true&mode=weekly)
 
 ---
 
