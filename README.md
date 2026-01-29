@@ -4,18 +4,9 @@
 ![Commits per Day hours](https://github-profile-summary-cards-nts2pmrdb-ken-cirs-projects.vercel.app/api/cards/productive-time?username=MidHunterX&show_icons=true&theme=dark&utcOffset=8)
 ![GitHub Streak](https://midhunterx-github-streak.vercel.app?user=MidHunterX&theme=dark&hide_border=true&mode=weekly)
 
-<!-- NOTE: Some of the above are not self hosted If any of them breaks, you can
-either find a fork and use their deployment link or you can self host -->
-
 ---
 
-> Click this header image to go view **Portfolio**
-
-<a href="https://midhunterx.github.io">
-
-![Portfolio](./img/header.png)
-
-</a>
+[![Portfolio](./img/QR-Flower.jpg)](https://midhunterx.github.io)
 
 <div align="center">
 
