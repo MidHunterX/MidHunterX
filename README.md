@@ -39,41 +39,30 @@ I, <span title="name">denominated</span> as Mid, do hereby present myself in the
 
 <img width="300px" align="right" src="./img/avatar.png">
 
-Languages:
-
-<div>
-  <img title="Hyper Text Markup Language (HTML)" src="https://skillicons.dev/icons?i=html" />
-  <img title="Cascading Style Sheets (CSS)" src="https://skillicons.dev/icons?i=css" />
-  <img title="Rust" src="https://skillicons.dev/icons?i=rust" />
-  <img title="Java" src="https://skillicons.dev/icons?i=java" />
-  <img title="C" src="https://skillicons.dev/icons?i=c" />
-</div>
-
-Scripting:
+Programming Languages:
 
 <div>
   <img title="Python" src="https://skillicons.dev/icons?i=python" />
   <img title="Typescript" src="https://skillicons.dev/icons?i=ts" />
   <img title="Javascript" src="https://skillicons.dev/icons?i=js" />
+  <img title="Perl" src="https://skillicons.dev/icons?i=perl" />
+  <img title="Rust" src="https://skillicons.dev/icons?i=rust" />
+  <img title="Java" src="https://skillicons.dev/icons?i=java" />
+  <img title="C" src="https://skillicons.dev/icons?i=c" />
   <img title="Lua" src="https://skillicons.dev/icons?i=lua" />
   <img title="Bash" src="https://skillicons.dev/icons?i=bash" />
 </div>
 
-Frameworks:
+Web Development:
 
 <div>
+  <img title="Hyper Text Markup Language (HTML)" src="https://skillicons.dev/icons?i=html" />
+  <img title="Cascading Style Sheets (CSS)" src="https://skillicons.dev/icons?i=css" />
   <img title="Django" src="https://skillicons.dev/icons?i=django" />
   <img title="FastAPI" src="https://skillicons.dev/icons?i=fastapi" />
   <img title="Next.js" src="https://skillicons.dev/icons?i=nextjs" />
   <img title="Angular" src="https://skillicons.dev/icons?i=angular" />
-</div>
-
-Libraries:
-
-<div>
   <img title="React.js" src="https://skillicons.dev/icons?i=react" />
-  <img title="Nodejs" src="https://skillicons.dev/icons?i=nodejs" />
-  <img title="JQuery" src="https://skillicons.dev/icons?i=jquery" />
   <img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
   <img title="TailwindCSS" src="https://skillicons.dev/icons?i=tailwind" />
 </div>
@@ -82,8 +71,8 @@ Databases:
 
 <div>
   <img title="SQLite" src="https://skillicons.dev/icons?i=sqlite" />
-  <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" />
   <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" />
+  <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" />
 </div>
 
 Tools (FOSS):
