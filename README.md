@@ -6,7 +6,7 @@
 
 ---
 
-[![Portfolio](./img/QR-Flower.jpg)](https://midhunterx.github.io)
+[![Portfolio](./img/header.png)](https://midhunterx.github.io)
 
 <div align="center">
 
