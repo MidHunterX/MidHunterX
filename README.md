@@ -1,7 +1,6 @@
 <div align="right">
 
-> “**Existence** is systems and mechanics. **Reality** is whatever you want it to be.”
->
+> “**Existence** is systems and mechanics. **Reality** is whatever you want it to be.”<br>
 > — Mid
 
 </div>
