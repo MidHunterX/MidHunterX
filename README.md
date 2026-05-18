@@ -1,3 +1,11 @@
+<div align="right">
+
+> “**Existence** is systems and mechanics. **Reality** is whatever you want it to be.”
+>
+> — Mid
+
+</div>
+
 ![Yearly Commit Activity](https://midhunterx-github-commit-stats.vercel.app/api/cards/profile-details?username=MidHunterX&theme=dark)
 ![GitHub Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=MidHunterX&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![Most Used Languages](https://midhunterx-github-stats.vercel.app/api/top-langs/?username=MidHunterX&layout=compact&theme=dark&hide_border=true)
