@@ -31,6 +31,8 @@ I, <span title="name">denominated</span> as Mid, do hereby present myself in the
 
 ## <span><img width="45px" src="./ico/emojis/fishing.gif"></span> &nbsp; Individualistic Impetus
 
+> **0x7F800000 and beyond**
+
 - <span title="To take part in or dedicate oneself to an activity">Engaging </span> in a <span title="Continuing firmly or obstinately in a course of action despite difficulty">persistent</span> and <span title="Jointly arranged or carried out; coordinated">concerted</span> effort towards the <span title="Thorough or all-encompassing understanding or absorption">comprehensive assimilation</span> of the <span title="A combination or fusion of multiple elements into one form">amalgamated totality</span> of <span title="The sum of all collective perception, emotion, and consciousness that defines human existence">human experience</span>, a pursuit that is <span title="Filled or laden with something undesirable or difficult">fraught</span> with the <span title="Likelihood or chance of a particular outcome occurring">probability</span> of <span title="Avoiding or escaping capture, understanding, or realization">eluding fruition</span> within the span of a single <span title="Pertaining to human life or existence">mortal existence</span>.
 - In <span title="An effort or striving to attain or accomplish something">pursuit</span> of <span title="Cleverness and skill in handling situations or problems">adroit mastery</span> through the <span title="Careful watching and noting of phenomena as they occur">observation</span> and <span title="The act or capacity of understanding; grasping meaning">comprehension</span> of actions of <span title="Distinct and self-aware beings within a shared environment">distinct inhabitants</span> of this <span title="Pertaining to or characteristic of the Earth or heavenly body">celestial entity</span> and <span title="To put into practice or execution">implementing</span> the <span title="Deliberately conceived and systematically arranged course of action or reasoning">contemplated formulated logic pattern</span> to the <span title="Difficult or complex problems or obstacles that require resolution">complications</span> which <span title="Begin or arise; to have their origin">commence</span> throughout the course of <span title="The state of being alive, conscious, and active">existence</span>.
 
@@ -48,59 +50,40 @@ I, <span title="name">denominated</span> as Mid, do hereby present myself in the
 
 Programming Languages:
 
+<!--PERF: Minimizing the number of images as GitHub seem to limit the number of images (cached)-->
+
 <div>
-  <img title="Python" src="https://skillicons.dev/icons?i=python" />
-  <img title="Typescript" src="https://skillicons.dev/icons?i=ts" />
-  <img title="Javascript" src="https://skillicons.dev/icons?i=js" />
-  <img title="Perl" src="https://skillicons.dev/icons?i=perl" />
-  <img title="Rust" src="https://skillicons.dev/icons?i=rust" />
-  <img title="Java" src="https://skillicons.dev/icons?i=java" />
-  <img title="C" src="https://skillicons.dev/icons?i=c" />
-  <img title="Lua" src="https://skillicons.dev/icons?i=lua" />
-  <img title="Bash" src="https://skillicons.dev/icons?i=bash" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js" />
+  <img src="https://skillicons.dev/icons?i=perl,rust,java" />
+  <img src="https://skillicons.dev/icons?i=c,lua,bash" />
 </div>
 
 Web Development:
 
 <div>
-  <img title="Hyper Text Markup Language (HTML)" src="https://skillicons.dev/icons?i=html" />
-  <img title="Cascading Style Sheets (CSS)" src="https://skillicons.dev/icons?i=css" />
-  <img title="Django" src="https://skillicons.dev/icons?i=django" />
-  <img title="FastAPI" src="https://skillicons.dev/icons?i=fastapi" />
-  <img title="Next.js" src="https://skillicons.dev/icons?i=nextjs" />
-  <img title="Angular" src="https://skillicons.dev/icons?i=angular" />
-  <img title="React.js" src="https://skillicons.dev/icons?i=react" />
-  <img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
-  <img title="TailwindCSS" src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,django" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,angular" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
 </div>
 
 Databases:
 
 <div>
-  <img title="SQLite" src="https://skillicons.dev/icons?i=sqlite" />
-  <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" />
-  <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql" />
 </div>
 
 Tools (FOSS):
 
 <div>
-  <img title="Linux" src="https://skillicons.dev/icons?i=linux" />
-  <img title="Neovim" src="https://skillicons.dev/icons?i=neovim" />
-  <img title="Git" src="https://skillicons.dev/icons?i=git" />
-  <img title="Firefox" src="https://go-skill-icons.vercel.app/api/icons?i=firefox" />
-  <img title="Blender" src="https://skillicons.dev/icons?i=blender" />
+  <img src="https://skillicons.dev/icons?i=linux,neovim,git" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=firefox,blender" />
 </div>
 
 Tools (Proprietary):
 
 <div>
-  <img title="Windows" src="https://skillicons.dev/icons?i=windows" />
-  <img title="GitHub" src="https://skillicons.dev/icons?i=github" />
-  <img title="Adobe Photoshop" src="https://skillicons.dev/icons?i=ps" />
-  <img title="Adobe InDesign" src="https://go-skill-icons.vercel.app/api/icons?i=indesign" />
-  <img title="Adobe Premiere Pro" src="https://skillicons.dev/icons?i=pr" />
-  <img title="Obsidian" src="https://skillicons.dev/icons?i=obsidian" />
+  <img src="https://skillicons.dev/icons?i=windows,github,ps" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=indesign,pr,obsidian" />
 </div>
 
 <br/>
