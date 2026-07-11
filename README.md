@@ -48,22 +48,21 @@ I, <span title="name">denominated</span> as Mid, do hereby present myself in the
 
 <img width="300px" align="right" src="./img/avatar.png">
 
-Programming Languages:
+Languages:
 
 <!--PERF: Minimizing the number of images as GitHub seem to limit the number of images (cached)-->
 
 <div>
-  <img src="https://skillicons.dev/icons?i=python,ts,js" />
-  <img src="https://skillicons.dev/icons?i=perl,rust,java" />
-  <img src="https://skillicons.dev/icons?i=c,lua,bash" />
+  <img src="https://skillicons.dev/icons?i=python,perl,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,rust,go" />
+  <img src="https://skillicons.dev/icons?i=lua,bash,java,dart" />
 </div>
 
-Web Development:
+Libraries & Frameworks:
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,django" />
-  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,angular" />
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nextjs,react" />
+  <img src="https://skillicons.dev/icons?i=tailwind,flutter,angular" />
 </div>
 
 Databases:
@@ -75,15 +74,13 @@ Databases:
 Tools (FOSS):
 
 <div>
-  <img src="https://skillicons.dev/icons?i=linux,neovim,git" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=firefox,blender" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,neovim,git,firefox" />
 </div>
 
 Tools (Proprietary):
 
 <div>
-  <img src="https://skillicons.dev/icons?i=windows,github,ps" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=indesign,pr,obsidian" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,ps,indesign,pr" />
 </div>
 
 <br/>
@@ -100,7 +97,7 @@ Tools (Proprietary):
 
 <hr>
 <img align="right" src="img/QR.svg" width="64" />
-<sub><h6 align="center">This <i>README</i> file is generated through conversion from electrical pulses in the encephalon located inside the cranium of personal posession to this world wide web service using character encodings produced by a complex silicon based computing system <br/> <a title="Not even a copyright symbol but, okay... looks cool tho" href="https://matias.ma/nsfw/">ⓔ 2020 Mid Hunter</a></h6></sub>
+<sub><h6 align="center">This <i>README</i> file is generated through conversion from electrical pulses in the encephalon located inside the cranium of personal posession to this world wide web service using character encodings produced by a complex silicon based computing system <br/> <a title="Not even a copyright symbol but, okay... looks cool tho" href="https://matias.ma/nsfw/">ⓔ 2026 Mid Hunter</a></h6></sub>
 
 <!-- Variables : Social -->
 
